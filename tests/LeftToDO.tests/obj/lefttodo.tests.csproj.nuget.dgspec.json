@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\tests\\lefttodo.tests\\lefttodo.tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\lefttodo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\lefttodo.csproj",
+        "projectName": "lefttodo",
+        "projectPath": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\lefttodo.csproj",
+        "packagesPath": "C:\\Users\\rlua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rlua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\tests\\lefttodo.tests\\lefttodo.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\tests\\lefttodo.tests\\lefttodo.tests.csproj",
+        "projectName": "lefttodo.tests",
+        "projectPath": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\tests\\lefttodo.tests\\lefttodo.tests.csproj",
+        "packagesPath": "C:\\Users\\rlua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\tests\\lefttodo.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rlua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\lefttodo.csproj": {
+                "projectPath": "C:\\Users\\rlua\\OneDrive - Novozymes A S\\Documents\\github\\OPP_LeftToDo\\OOP_lefttodo\\src\\LeftToDo\\lefttodo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

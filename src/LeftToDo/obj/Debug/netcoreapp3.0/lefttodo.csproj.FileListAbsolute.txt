@@ -1,0 +1,11 @@
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.runtimeconfig.dev.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\bin\Debug\netcoreapp3.0\lefttodo.pdb
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\obj\Debug\netcoreapp3.0\lefttodo.csprojAssemblyReference.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\obj\Debug\netcoreapp3.0\lefttodo.AssemblyInfoInputs.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\obj\Debug\netcoreapp3.0\lefttodo.AssemblyInfo.cs
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\obj\Debug\netcoreapp3.0\lefttodo.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\OPP_LeftToDo\OOP_lefttodo\src\lefttodo\obj\Debug\netcoreapp3.0\lefttodo.pdb
